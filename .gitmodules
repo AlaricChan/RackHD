@@ -24,7 +24,7 @@
 	url = https://github.com/AlaricChan/on-tasks.git
 [submodule "on-imagebuilder"]
 	path = on-imagebuilder
-	url = https://github.com/RackHD/on-imagebuilder.git
+	url = https://github.com/AlaricChan/on-imagebuilder.git
 [submodule "on-tools"]
 	path = on-tools
 	url = https://github.com/RackHD/on-tools
