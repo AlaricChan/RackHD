@@ -17,7 +17,7 @@
     "httpEndpoints": [
       {
           "address": "0.0.0.0",
-          "port": 9090,
+          "port": 8080,
           "httpsEnabled": false,
           "proxiesEnabled": true,
           "authEnabled": false,
@@ -37,7 +37,7 @@
         "port": 9030
     },
     "fileServerAddress": "172.31.128.1",
-    "fileServerPort": 9090,
+    "fileServerPort": 8080,
     "fileServerPath": "/",
     "httpFileServiceRoot": "./static/files",
     "httpFileServiceType": "FileSystem",
